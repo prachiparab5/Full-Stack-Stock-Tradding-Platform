@@ -2,6 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import HomePage from './landingPage/home/HomePage';
+import '@fortawesome/fontawesome-free/css/all.min.css';
+
 
 
 
